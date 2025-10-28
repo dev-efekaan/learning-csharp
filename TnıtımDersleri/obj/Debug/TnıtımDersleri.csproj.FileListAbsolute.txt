@@ -1,0 +1,7 @@
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\TnıtımDersleri\TnıtımDersleri\bin\Debug\TnıtımDersleri.exe.config
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\TnıtımDersleri\TnıtımDersleri\bin\Debug\TnıtımDersleri.exe
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\TnıtımDersleri\TnıtımDersleri\bin\Debug\TnıtımDersleri.pdb
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\TnıtımDersleri\TnıtımDersleri\obj\Debug\TnıtımDersleri.csproj.AssemblyReference.cache
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\TnıtımDersleri\TnıtımDersleri\obj\Debug\TnıtımDersleri.csproj.CoreCompileInputs.cache
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\TnıtımDersleri\TnıtımDersleri\obj\Debug\TnıtımDersleri.exe
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\TnıtımDersleri\TnıtımDersleri\obj\Debug\TnıtımDersleri.pdb
