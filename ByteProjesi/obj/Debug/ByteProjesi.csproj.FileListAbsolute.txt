@@ -1,0 +1,7 @@
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\ByteProjesi\bin\Debug\ByteProjesi.exe.config
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\ByteProjesi\bin\Debug\ByteProjesi.exe
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\ByteProjesi\bin\Debug\ByteProjesi.pdb
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\ByteProjesi\obj\Debug\ByteProjesi.csproj.AssemblyReference.cache
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\ByteProjesi\obj\Debug\ByteProjesi.csproj.CoreCompileInputs.cache
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\ByteProjesi\obj\Debug\ByteProjesi.exe
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\ByteProjesi\obj\Debug\ByteProjesi.pdb

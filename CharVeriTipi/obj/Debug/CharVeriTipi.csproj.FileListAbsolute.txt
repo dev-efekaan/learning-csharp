@@ -1,0 +1,7 @@
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\LongVeritipi\CharVeriTipi\bin\Debug\CharVeriTipi.exe.config
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\LongVeritipi\CharVeriTipi\bin\Debug\CharVeriTipi.exe
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\LongVeritipi\CharVeriTipi\bin\Debug\CharVeriTipi.pdb
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\LongVeritipi\CharVeriTipi\obj\Debug\CharVeriTipi.csproj.AssemblyReference.cache
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\LongVeritipi\CharVeriTipi\obj\Debug\CharVeriTipi.csproj.CoreCompileInputs.cache
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\LongVeritipi\CharVeriTipi\obj\Debug\CharVeriTipi.exe
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\LongVeritipi\CharVeriTipi\obj\Debug\CharVeriTipi.pdb

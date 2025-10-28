@@ -1,0 +1,7 @@
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\StringVeriTipi\BoolenVeriTipi\bin\Debug\BoolenVeriTipi.exe.config
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\StringVeriTipi\BoolenVeriTipi\bin\Debug\BoolenVeriTipi.exe
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\StringVeriTipi\BoolenVeriTipi\bin\Debug\BoolenVeriTipi.pdb
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\StringVeriTipi\BoolenVeriTipi\obj\Debug\BoolenVeriTipi.csproj.AssemblyReference.cache
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\StringVeriTipi\BoolenVeriTipi\obj\Debug\BoolenVeriTipi.csproj.CoreCompileInputs.cache
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\StringVeriTipi\BoolenVeriTipi\obj\Debug\BoolenVeriTipi.exe
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\StringVeriTipi\BoolenVeriTipi\obj\Debug\BoolenVeriTipi.pdb
