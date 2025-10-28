@@ -1,0 +1,7 @@
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\StringVeriTipi\ToplamaVeÇıkarma\bin\Debug\ToplamaVeÇıkarma.exe.config
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\StringVeriTipi\ToplamaVeÇıkarma\bin\Debug\ToplamaVeÇıkarma.exe
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\StringVeriTipi\ToplamaVeÇıkarma\bin\Debug\ToplamaVeÇıkarma.pdb
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\StringVeriTipi\ToplamaVeÇıkarma\obj\Debug\ToplamaVeÇıkarma.csproj.AssemblyReference.cache
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\StringVeriTipi\ToplamaVeÇıkarma\obj\Debug\ToplamaVeÇıkarma.csproj.CoreCompileInputs.cache
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\StringVeriTipi\ToplamaVeÇıkarma\obj\Debug\ToplamaVeÇıkarma.exe
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\StringVeriTipi\ToplamaVeÇıkarma\obj\Debug\ToplamaVeÇıkarma.pdb

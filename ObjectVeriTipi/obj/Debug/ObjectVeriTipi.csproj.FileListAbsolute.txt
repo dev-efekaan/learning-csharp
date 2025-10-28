@@ -1,0 +1,7 @@
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\StringVeriTipi\ObjectVeriTipi\bin\Debug\ObjectVeriTipi.exe.config
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\StringVeriTipi\ObjectVeriTipi\bin\Debug\ObjectVeriTipi.exe
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\StringVeriTipi\ObjectVeriTipi\bin\Debug\ObjectVeriTipi.pdb
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\StringVeriTipi\ObjectVeriTipi\obj\Debug\ObjectVeriTipi.csproj.AssemblyReference.cache
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\StringVeriTipi\ObjectVeriTipi\obj\Debug\ObjectVeriTipi.csproj.CoreCompileInputs.cache
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\StringVeriTipi\ObjectVeriTipi\obj\Debug\ObjectVeriTipi.exe
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\StringVeriTipi\ObjectVeriTipi\obj\Debug\ObjectVeriTipi.pdb

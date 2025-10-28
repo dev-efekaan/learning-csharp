@@ -1,0 +1,7 @@
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\StringVeriTipi\ÇarpmaBölme\bin\Debug\ÇarpmaBölme.exe.config
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\StringVeriTipi\ÇarpmaBölme\bin\Debug\ÇarpmaBölme.exe
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\StringVeriTipi\ÇarpmaBölme\bin\Debug\ÇarpmaBölme.pdb
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\StringVeriTipi\ÇarpmaBölme\obj\Debug\ÇarpmaBölme.csproj.AssemblyReference.cache
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\StringVeriTipi\ÇarpmaBölme\obj\Debug\ÇarpmaBölme.csproj.CoreCompileInputs.cache
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\StringVeriTipi\ÇarpmaBölme\obj\Debug\ÇarpmaBölme.exe
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\StringVeriTipi\ÇarpmaBölme\obj\Debug\ÇarpmaBölme.pdb

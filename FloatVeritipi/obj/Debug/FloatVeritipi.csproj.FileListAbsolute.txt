@@ -1,0 +1,7 @@
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\LongVeritipi\FloatVeritipi\bin\Debug\FloatVeritipi.exe.config
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\LongVeritipi\FloatVeritipi\bin\Debug\FloatVeritipi.exe
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\LongVeritipi\FloatVeritipi\bin\Debug\FloatVeritipi.pdb
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\LongVeritipi\FloatVeritipi\obj\Debug\FloatVeritipi.csproj.AssemblyReference.cache
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\LongVeritipi\FloatVeritipi\obj\Debug\FloatVeritipi.csproj.CoreCompileInputs.cache
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\LongVeritipi\FloatVeritipi\obj\Debug\FloatVeritipi.exe
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\LongVeritipi\FloatVeritipi\obj\Debug\FloatVeritipi.pdb

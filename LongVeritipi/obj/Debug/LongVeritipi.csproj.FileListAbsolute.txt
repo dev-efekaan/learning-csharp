@@ -1,0 +1,7 @@
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\LongVeritipi\LongVeritipi\bin\Debug\LongVeritipi.exe.config
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\LongVeritipi\LongVeritipi\bin\Debug\LongVeritipi.exe
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\LongVeritipi\LongVeritipi\bin\Debug\LongVeritipi.pdb
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\LongVeritipi\LongVeritipi\obj\Debug\LongVeritipi.csproj.AssemblyReference.cache
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\LongVeritipi\LongVeritipi\obj\Debug\LongVeritipi.csproj.CoreCompileInputs.cache
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\LongVeritipi\LongVeritipi\obj\Debug\LongVeritipi.exe
+C:\Users\efeka\OneDrive\Masaüstü\Projelerim\LongVeritipi\LongVeritipi\obj\Debug\LongVeritipi.pdb
